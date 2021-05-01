@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ParlourSolitaire
+  Created by John Calhoun on 8/29/11.
+  Copyright 2011 Soft Dorothy LLC. All rights reserved.
+*/
+
+/* New Game alert */
+"New Game"													= "New Game";
+"If you start a new game this game will count as a loss."	= "If you start a new game this game will count as a loss.";
+"Cancel"													= "Cancel";
+"New Game"													= "New Game";
+
+/* Undo All alert  -- uses 'Cancel' from above */
+"Undo All Actions"											= "Undo All";
+"You can Undo all actions in this game."					= "You can Undo all actions in this game and restart it with the same original deal.";
+"Undo All"													= "Undo All";
